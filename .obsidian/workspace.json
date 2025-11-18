@@ -36,6 +36,7 @@
             }
           }
         ]
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#concept",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "变格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 变格"
+              "title": "Backlinks"
             }
           },
           {
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +182,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "28b16124e8f09a53",
+  "active": "b0ab1dd5fbc57e6b",
   "lastOpenFiles": [
     "trival-ml/content/SFT.md",
     "trival-ml/index/LLM-fine-tuning.md",
