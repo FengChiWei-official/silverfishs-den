@@ -23,5 +23,8 @@ so $n$ divides $km$
 $n = n^{\prime}d, k = k^{\prime}d$, where $n^{\prime}, k^{\prime}$ is relatively prime
 $n^{\prime} \mid k^{\prime}m \to n^{\prime} \mid m$
 so, $m = \rho n^{\prime}$ and minimal $m^{opt}$ is $n^{\prime}=\frac{n}{\text{gcd}(k,n)}$
+
 then, we should check $m^{opt}$ do be the minimal one.
-let there is a $m^{\prime}$ that is smaller then $m^{opt}$, then
+let there is a $m^{\prime}$ that is smaller then $m^{opt}$, then $n \mid m^{\prime}$ 
+as we know smallest $m^{\prime}$ is $m^{opt}$, so $m^{opt}$ is the smallest one.
+
