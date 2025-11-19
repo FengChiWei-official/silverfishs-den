@@ -1,2 +1,0 @@
-#computer-science #technique
-IDN
