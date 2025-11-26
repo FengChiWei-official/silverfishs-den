@@ -22,4 +22,4 @@ The following are **equivalent**:
 ---
 ## **related**：
 ### corollay
-1.[[corollary on ralationship between injective and kernel]]
+1.[[Corollary on ralationship between injective and kernel]]
