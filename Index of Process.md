@@ -10,7 +10,7 @@ tags:
 ### birth
 call a system call `fork()`, 
 1. System call(Trap)
-2. Build up Entity for [[Process]] , which is called [[PCB]]
+2. Build up Entity for [[Process]] , which is called [[Process Control Block]]
 3. is allocated resources, and Ready
 ### Ready
 when a process ready, cpu might not available
@@ -31,7 +31,7 @@ when a process ready, cpu might not available
 3. **中断唤醒**：当硬件完成读取，发出一个硬件**中断**，操作系统将原进程改回**就绪态**，重新排队等 CPU。
 ## 知识点逻辑
 
-- **资源层**（[[PCB]]、内存、[[IPC]]）：解决进程“是什么、有什么”的问题。
+- **资源层**（[[Process Control Block]]、内存、[[IPC]]）：解决进程“是什么、有什么”的问题。
 - **动力层**（[[Scheduler for Process|调度]]、状态转换）：解决进程“怎么跑、跑多快”的问题。
 - **管理层**（[[Synchronization & Mutual Exclusion|同步互斥]]、[[Deadlock|死锁]]）：解决进程“怎么不打架”的问题。
 - **交互层**（Trap、系统调用、Shell）：解决“人如何控制进程”的问题。

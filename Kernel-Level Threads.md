@@ -5,7 +5,7 @@ tags:
   - attr/principle
   - topic/learning
 aliases:
-  - Process Control Block
+  - KLT
 ---
 
 ## qwq
