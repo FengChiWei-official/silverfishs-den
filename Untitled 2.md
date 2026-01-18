@@ -4,8 +4,6 @@ tags:
   - status/evergreen
   - attr/principle
   - topic/learning
-aliases:
-  - KLT
 ---
 
 ## qwq
