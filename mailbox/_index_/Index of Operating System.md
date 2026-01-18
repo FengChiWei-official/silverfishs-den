@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Operation System
-[[Concept of Operation System]]
+[[Concept of Operating System]]
 [[How do PC system work]]
 [[Index of Core Concept of OS]]
 
