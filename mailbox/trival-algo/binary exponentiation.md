@@ -1,25 +1,25 @@
-#algo 
-## recognition
+# Algorithm
+## Recognition
 
   
 
-if you see a problem like that:
+If you see a problem like this:
 
 $$ result = op^{d}(x) $$
 
-$d$ is a int. so d can be seperated into n-based digits, for a example, $7 = [1, 1, 1]_2$.
+Here $d$ is an integer, so $d$ can be separated into base-$n$ digits; for example, $7 = [1,1,1]_2$.
 
   
 
-form the point of view of **algebra**, we can say that that is a calculation for a operation(with **associativity** and **identity**)'s exponentiation(and calculate for several times).
+From the point of view of algebra, we can say that this is the exponentiation of an operation (one with **associativity** and **identity**), i.e. repeated application of the operation.
 
   
 
-## what can it do?
+## What it can do
 
   
 
-it makes calculation efficiently.form $O(n) = n \to O(n) = log(n)$
+It computes exponentiation efficiently, reducing the time complexity from $O(n)$ to $O(\log n)$.
 
-## from 
+## From
 [[Addition Group]]
