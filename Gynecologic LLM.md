@@ -5,10 +5,9 @@ tags:
   - attr/principle
   - topic/learning
 ---
-
-## qwq
+## Goals
 
 
 
 ---
-## **Related**：
+## **related**：
