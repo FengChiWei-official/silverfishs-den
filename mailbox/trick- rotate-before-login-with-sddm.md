@@ -1,9 +1,9 @@
 ---
 tags:
-  - type/permanent
   - status/evergreen
-  - attr/principle
   - topic/learning
+  - type/tips
+  - type/lit
 ---
 
 ## 使用 `xrandr` 命令
