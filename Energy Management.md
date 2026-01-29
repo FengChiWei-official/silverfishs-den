@@ -5,10 +5,11 @@ tags:
   - attr/principle
   - topic/learning
 ---
-## Goals
+ 
+ ## qwq
 
+key point is [[Calorie Deficit]]
 
 
 ---
-## **related**：
-
+## **Related**：
