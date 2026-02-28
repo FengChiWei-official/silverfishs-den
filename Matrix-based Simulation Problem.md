@@ -74,7 +74,7 @@ tags:
 ```
 ## 4 boundaries
 ### tech
-[[4 Boundaries Traversal Matrix]]
+[[Four Boundaries Traversal Matrix]]
 ### example
 [[59. Spiral Matrix II]]
 
