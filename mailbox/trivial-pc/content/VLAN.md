@@ -1,0 +1,16 @@
+---
+tags:
+  - type/permanent
+  - status/evergreen
+  - attr/principle
+  - topic/learning
+---
+
+## qwq
+
+
+
+---
+## **related**：
+[[Switch]]
+[[Network Access Layer of Network|Data Link Layer]]
