@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Front page
-[[Dynamic programming]] has only 2 CORE Factors: [[State Space]] and [[Transition Logic]].
+[[Dynamic Programming]] has only 2 CORE Factors: [[State Space]] and [[Transition Logic]].
 
 ## **Linear**
 ## define

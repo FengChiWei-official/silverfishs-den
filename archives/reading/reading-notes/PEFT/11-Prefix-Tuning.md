@@ -40,7 +40,7 @@
 - 便于在模型供应方共享基础模型并只分发各任务的 prefix，从而降低隐私或模型再发行成本。
 
 ## 相关笔记
-- [[reading/reading-notes/PEFT/LoRA-低秩适配]]
+- [[archives/reading/reading-notes/PEFT/LoRA-低秩适配]]
 - [[02-QLoRA-量化LoRA]]
 - [[10-PEFT-参数高效微调框架]]
 
