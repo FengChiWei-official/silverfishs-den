@@ -10,7 +10,7 @@ aliases:
   - Union Find
 ---
 > disjoint means `不相交`
-## define
+## Definition
 > A `set` is a set of elements that represent as a `parent` node.
 > ![[DSU_example.png]]
 1. union: combine 2 sets

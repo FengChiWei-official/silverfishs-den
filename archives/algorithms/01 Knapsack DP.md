@@ -6,7 +6,7 @@ tags:
   - topic/learning
 ---
 
-## Define
+## Definition
 ### Entities
 1. Item
 	1. weight

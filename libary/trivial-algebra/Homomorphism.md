@@ -6,8 +6,8 @@ tags:
   - topic/math
 ---
 
-## define 
-[[define of Homomprphism]]
+## Definition 
+[[Definition of Homomprphism]]
 
 ## Property
 [[Properties of Homomorphism]]

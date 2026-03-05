@@ -7,7 +7,7 @@ tags:
 [[Electric Dipole]]  
 
 ---
-# define
+# Definition
 $$\vec p := q  \vec d$$
 ## where:
 ## when:

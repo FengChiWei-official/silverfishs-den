@@ -10,7 +10,7 @@ tags:
 [[Dynamic Programming]] has only 2 CORE Factors: [[State Space]] and [[Transition Logic]].
 
 ## **Linear**
-## define
+## Definition
 [[Linear DP]]
 
 ### special sub

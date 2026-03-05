@@ -9,7 +9,7 @@ aliases:
   - dp
 ---
 
-## define
+## Definition
 **IDN**
 
 ## **attr**

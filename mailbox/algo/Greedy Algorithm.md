@@ -6,7 +6,7 @@ tags:
   - topic/learning
 ---
 
-## Define
+## Definition
 
 ## Types
 [[Sequence Reordering Greedy]]

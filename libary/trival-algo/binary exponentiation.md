@@ -22,4 +22,4 @@ From the point of view of algebra, we can say that this is the exponentiation of
 It computes exponentiation efficiently, reducing the time complexity from $O(n)$ to $O(\log n)$.
 
 ## From
-[[Addition Group]]
+[[Additive Group of Integers]]

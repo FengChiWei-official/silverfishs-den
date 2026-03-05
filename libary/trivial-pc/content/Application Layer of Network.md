@@ -8,7 +8,7 @@ aliases:
   - Application Layer
 ---
 
-## Define
+## Definition
 
 the [[Application Layer of Network|Application Layer]] is the most **Complex** layer, that empower [[Process|Processes]] to connect with each other. And the [[Application Layer of Network|Application Layer]] is on the basis of [[Internet Layer of Network|Internet Layer]], which allow the host to identify each other.
 

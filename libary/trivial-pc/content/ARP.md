@@ -9,7 +9,7 @@ aliases:
 ---
 ## Belonging
 between [[Network Access Layer of Network|Network Access Layer]] and [[Internet Layer of Network|Internet Layer]]
-## Define
+## Definition
 ARP (Address Resolution Protocol) is the **"glue"** that connects the **Internet Layer ([[IP Address]])** to the **Network Access Layer ([[MAC Address]])**. It allows a host to discover the hardware identity of a neighbor using only its logical IP address.
 
 ## Basis

@@ -1,11 +1,11 @@
 #concept #math/algebra/abstract 
 
-## defination
+## Definition
 -  a [[semigroup]] having:
 	- [[Identity]]
 
 - **oder** a `set with operator`  having:
 	- [[Closure]]
 	- [[Identity]]
-## stronger concept
+## Hypernym
 - [[Group]]

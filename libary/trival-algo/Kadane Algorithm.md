@@ -7,7 +7,7 @@ tags:
 ---
 it is a [[Dynamic Programming|DP]] algorithm
 
-## Defines
+## Definition
 Given input `nums`.
 
 `dp` is state variable, standing for max sum of i-end subarray.

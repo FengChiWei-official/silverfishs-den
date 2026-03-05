@@ -1,5 +1,5 @@
 #entity/virtual #cs 
-## define
+## Definition
 idn
 ## interest
 idn

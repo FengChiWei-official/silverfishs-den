@@ -8,7 +8,7 @@ aliases:
   - CBT Height Constraint
 ---
 
-## Define
+## Definition
 A [[Complete Binary Tree|CBT]] with `n` nodes, its height `H` is always:
 $$
 \mathbf{H} = \lfloor\log_2n\rfloor+1

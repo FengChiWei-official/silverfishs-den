@@ -6,7 +6,7 @@ tags:
   - topic/learning
 ---
 
-## define
+## Definition
 It is a 32bit integer.
 
 ## understand IP address

@@ -1,5 +1,5 @@
 #entity/virtual #cs 
-## define
+## Definition
 a structure of a group of computer for **comunication**
 *it reflect your thoughts* 
 ## interest

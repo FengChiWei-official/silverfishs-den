@@ -10,7 +10,7 @@ aliases:
 ---
 ## Usage
 - Solves systems of congruences ([[coprime moduli]])
-## define
+## Definition
 $$\begin{equation}
 \begin{aligned}
 x & \equiv a_1 \pmod{m_1} \\
@@ -20,9 +20,9 @@ x & \equiv a_i \pmod{m_i}
 \end{aligned}
 \end{equation}$$
 
-$\forall i \text{ and } j,  \text{ if }i \ne j, \text{ gcd}(m_i, m_j) = 1$ then the [[system of congruences]] have unique solution.
+$\forall \quad i \text{ and } j,  \text{ if }i \ne j, \text{ gcd}(m_i, m_j) = 1$ then the [[system of congruences]] have unique solution.
 
-## then how to get the unique solusion?
+## Then how to get the unique solusion?
 ---
-## **related**：
+## **Related**：
 [[Extended Chinese Reminder Theorem|Extented]]

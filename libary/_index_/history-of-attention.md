@@ -1,7 +1,7 @@
 ## background
 we have met the limitation of [[RNN]]s 
 - **sequential process bottleneck**
-- vanishing/exploding [[gradient]]
+- vanishing/exploding [[Gradient]]
 - fixed-length context vectors
 
 ## inspiration

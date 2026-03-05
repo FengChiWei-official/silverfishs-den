@@ -6,7 +6,6 @@ tags:
   - topic/learning
 ---
 
-## define
 ## ability
 - all code is availible
 >	different from [[User Mode]]

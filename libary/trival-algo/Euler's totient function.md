@@ -9,7 +9,7 @@ tags:
 ## Totient
 totient is the name of function counting in specific rules.
 
-## define
+## Definition
 $$ 
 \phi(n) = 
 

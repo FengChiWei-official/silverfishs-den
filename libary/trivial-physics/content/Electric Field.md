@@ -8,4 +8,4 @@ tags:
 [[Electromagnetism]]    
 
 ---  
-# define:
+# Definition:

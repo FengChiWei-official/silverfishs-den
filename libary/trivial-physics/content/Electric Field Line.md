@@ -7,5 +7,5 @@ tags:
 [[Electric Field]]   
 
 ---
-# define:
+# Definition:
 # 
