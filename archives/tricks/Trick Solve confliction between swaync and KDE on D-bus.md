@@ -4,6 +4,8 @@ tags:
   - topic/learning
   - status/archive
 source: 《卡片盒笔记法》 by Sönke Ahrens
+aliases:
+  - Make Hyprland Notification Properly Work
 ---
 
 ## Symtom
