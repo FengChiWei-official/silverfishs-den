@@ -15,4 +15,4 @@ source: 《卡片盒笔记法》 by Sönke Ahrens
 [[Parentheses Matching]]
 ## Thoughts
 [[How to write a Right BF Code]]
-[[How to use stack]]
+[[How to Use Stack]]
