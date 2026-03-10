@@ -33,4 +33,4 @@ Given former interval, consider the relationship between current one and former 
 ---
 ## **Related**
 
-[[todo interval]]
+[[Todo Interval]]
