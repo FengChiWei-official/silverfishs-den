@@ -16,9 +16,9 @@ $(\mathbb{Z}, +)$: [[Notation of Group]]
 [[The Cyclic Decomposition Theorem for Subgroups of the Addition Group of Integers|Addtive Subgroup of Integers is In shape of Za]]
 ## Construction
 ### $\mathbb{Z} a + \mathbb{Z}b$
-[[Subgroup Generation Theorem for the Integer Additive Group|Here is the definition]] and its theorem: [[Characterization of GCD via Linear Combinations]]. Defines [[Greatest Common Divisor|GCD]].
+[[Subgroup Generation Theorem for the Integer Additive Group|Here is the definition]] and its theorem: [[Characterization of GCD via Linear Combinations]], who efines [[Greatest Common Divisor|GCD]].
 theorem's corollaries:
-1. [[Characterization of GCD via Linear Combinations|The Bézout Identity for Integers]]
+1. [[Existence of Coefficients for Relatively Prime Integers]]
 2. [[Prime Divisibility Property|Euclid's Lemma]]
 
 ### $\mathbb{Z}a \cap \mathbb{Z}b$ 
