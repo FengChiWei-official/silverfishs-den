@@ -14,4 +14,4 @@ tags:
 ---
 ## **Related**
 
-[[todo interval]]
+[[Todo Interval]]
