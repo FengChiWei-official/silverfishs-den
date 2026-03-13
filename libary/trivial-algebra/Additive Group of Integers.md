@@ -1,4 +1,9 @@
-#concept/virtual #math/algebra/abstract 
+---
+tags:
+  - attr/concept
+  - status/evergreen
+---
+
 ## Definition
 it is a instance is [[Group]] that defined on $\mathbb{Z}$ with operator $+$
 

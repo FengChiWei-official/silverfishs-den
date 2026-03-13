@@ -11,7 +11,7 @@ aliases:
 
 ## Definition
 ### CORE
-dynamic programming has only 2 CORE Factors: [[State Space]] and [[Transition Logic]].
+Dynamic programming has only 2 CORE Factors: [[State Space]] and [[Transition Logic]].
 
 ---
 ## **Related**：

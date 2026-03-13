@@ -2,16 +2,13 @@
 tags:
   - type/permanent
   - status/evergreen
-  - attr/principle
   - topic/learning
-aliases:
-  - Scalar Field
+  - attr/technique
 ---
 
 ## Definition
-$$
-\mathbb{R}^n \to \mathbb{R}
-$$
+
+[[Message Queue]] -> [[Decoupling]]
 
 
 ---

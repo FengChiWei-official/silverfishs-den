@@ -2,17 +2,13 @@
 tags:
   - type/permanent
   - status/evergreen
-  - attr/principle
   - topic/learning
+  - attr/concept
 aliases:
-  - Scalar Field
+  - DFS
 ---
 
 ## Definition
-$$
-\mathbb{R}^n \to \mathbb{R}
-$$
-
 
 ---
 ## **Related**

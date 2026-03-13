@@ -2,17 +2,13 @@
 tags:
   - type/permanent
   - status/evergreen
-  - attr/principle
   - topic/learning
-aliases:
-  - Scalar Field
+  - attr/concept
 ---
 
 ## Definition
-$$
-\mathbb{R}^n \to \mathbb{R}
-$$
 
+Intervals are ordered in a [[Tree]] way.
 
 ---
 ## **Related**

@@ -14,19 +14,17 @@ aliases:
 ## Definition
 $$
 \begin{aligned}
-\mathbf{S} &= \mathbb{Z}a + \mathbb{Z}b, \\
-d &= \gcd(a, b), \\
-(\mathbf{S}, +) &\cong (\mathbb{Z}d, +).
+&\mathbf{S} = \mathbb{Z}a + \mathbb{Z}b, \\
+&&\text{where } \mathbb{Z}a + \mathbb{Z}b = \{ma + nb \mid m , n\in \mathbb{Z} \}
 \end{aligned}
 $$
-
-
-## Equals to
+$\mathbf{S}$ is a [[Subgroup]] of [[Additive Group of Integers]]($\mathbb{Z}, +$).
+## Properties
 [[Characterization of GCD via Linear Combinations]]
 
 
 ## Proof
-[[Proof of Subgroup Generation Theorem for the Integer Additive Group]]
+[[Proof of Characterization of GCD via Linear Combinations]]
 
 ---
 ## **Related**

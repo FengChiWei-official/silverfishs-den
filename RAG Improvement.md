@@ -2,16 +2,14 @@
 tags:
   - type/permanent
   - status/evergreen
-  - attr/principle
   - topic/learning
-aliases:
-  - Scalar Field
+  - attr/technique
 ---
 
 ## Definition
-$$
-\mathbb{R}^n \to \mathbb{R}
-$$
+
+[[Asynchronicity]] + [[Slicing]] for upload
+[[Cache With Redis]] 
 
 
 ---
