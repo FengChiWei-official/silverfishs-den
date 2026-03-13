@@ -13,6 +13,9 @@ The file is in that path `~/.config/hypr/conf/custom.conf`
 >related config of workspace in [[Hyprland Custom Workspace Config File]]
 
 ```
+# Add your additional Hyprland configurations here
+# Hook for Obsidian: [[Hyprland Config]]
+
 # ===========================================
 # Hyprland Configuration File
 # Elegantly Annotated
@@ -35,6 +38,14 @@ exec-once = clash-verge                   # Network proxy client
 exec-once = $HYPRSCRIPTS/notifications.sh # Custom notification script
 exec-once = /usr/lib/pam_kwallet_init     # KDE wallet manager
 
+# ========================
+#
+# ========================
+
+env = http_proxy,http://127.0.0.1:7897
+env = https_proxy,http://127.0.0.1:7897
+env = all_proxy,socks5://127.0.0.1:7897
+env = no_proxy,localhost,127.0.0.1,localaddress,.localdomain.com
 
 # ========================
 # Workspace Configuration
@@ -50,7 +61,7 @@ source = ~/.config/hypr/conf/custom_workspace.conf
 unbind = $mainMod, B
 
 # Application shortcut configuration
-bind = $mainMod, B, exec, google-chrome-stable --new-window  # Open Chrome browser
+bind = $mainMod, B, exec, google-chrome-stable --new-window # Open Chrome browser
 bind = $mainMod, C, exec, code                  # Open Visual Studio Code
 
 # Remove existing launcher shortcut
@@ -86,6 +97,7 @@ dwindle {
     pseudotile = true         # Enable pseudo-tiling layout
     preserve_split = true     # Maintain window split state
 }
+
 ```
 
 ---

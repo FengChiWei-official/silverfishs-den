@@ -7,7 +7,6 @@ tags:
 ---
 
 ## Definition
-A kind of [[Vector-valued Function|Parametric Curve]].
 
 ---
 ## **Related**

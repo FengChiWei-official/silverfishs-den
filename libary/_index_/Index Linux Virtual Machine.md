@@ -9,7 +9,7 @@ tags:
 ## qwq
 
 ### structure
-[[kernel]] -> [[KVM|Kernel-based Virtual Machine]] -> [[QEMU|Quick Emulator]] -> [[Libvirt|Library Virtualization]]
+[[Kernel]] -> [[KVM|Kernel-based Virtual Machine]] -> [[QEMU|Quick Emulator]] -> [[Libvirt|Library Virtualization]]
 
 ---
 ## **Related**：

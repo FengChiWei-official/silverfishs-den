@@ -20,7 +20,7 @@ tags:
 - [[300. Longest Increasing Subsequence|300. LIS]]
 #### [[Single Sequence - Continuous Subarray DP|Kadane-like DP]]
 - [[53. Maximum Subarray]]
-#### [[Dual Sequence|LCS-like DP]]
+#### [[Dual Sequence DP|LCS-like DP]]
 
 #### [[Matrix DP]]
 

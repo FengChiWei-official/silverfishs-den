@@ -2,15 +2,13 @@
 tags:
   - type/permanent
   - status/evergreen
-  - attr/principle
   - topic/learning
+  - attr/concept
 aliases:
-  - 封装
+  - BFS
 ---
 
-## qwq
-
-
+## Definition
 
 ---
-## **related**：
+## **Related**
