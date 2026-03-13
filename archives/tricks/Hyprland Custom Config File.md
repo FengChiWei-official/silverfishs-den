@@ -9,82 +9,85 @@ tags:
 ## Definition
 
 The file is in that path `~/.config/hypr/conf/custom.conf`
+>[!note]
+>related config of workspace in [[Hyprland Custom Workspace Config File]]
 
-``` conf
-# Add your additional Hyprland configurations here
+```
+# ===========================================
+# Hyprland Configuration File
+# Elegantly Annotated
+# ===========================================
 
-
-
+# Define main modifier key
+# Use SUPER (Windows/Command) key as primary modifier
 $mainMod = SUPER
-$HYPRSCRIPTS = ~/.config/hypr/scripts
-$SCRIPTS = ~/.config/ml4w/scripts
 
-exec-once = fcitx5
-exec-once = clash-verge
-exec-once = $HYPRSCRIPTS/notifications.sh
-exec-once = /usr/lib/pam_kwallet_init
-
-# workspace
-
-unbind = $mainMod CTRL, right
-unbind = $mainMod CTRL, left
-unbind = $mainMod TAB
-unbind = $mainMod CTRL, down
-
-bind = $mainMod CTRL, right, workspace, r+1
-bind = $mainMod CTRL, left, workspace, r-1
-bind = $mainMod CTRL, down, workspace, 2
-bind = $mainMod CTRL, up, workspace, 1
-bind = $mainMod CTRL ALT, right, movetoworkspace, r+1
-bind = $mainMod CTRL ALT, left, movetoworkspace, r-1
-
-unbind = $mainMod, F
-unbind = $mainMod CTRL, F
-bind = $mainMod CTRL, F, togglefloating
-bind = $mainMod, F, fullscreen, 0
-
-unbind = $mainMod, S
-unbind = $mainMod CTRL ALT, S
-bind = $mainMod, S, togglespecialworkspace
-bind = $mainMod CTRL ALT, S, movetoworkspace, special
+# Custom script path definitions
+$HYPRSCRIPTS = ~/.config/hypr/scripts     # Hyprland-specific scripts
+$SCRIPTS = ~/.config/ml4w/scripts         # Other tool scripts
 
 
+# ========================
+# Auto-start Applications
+# ========================
+exec-once = fcitx5                        # Chinese input method framework
+exec-once = clash-verge                   # Network proxy client
+exec-once = $HYPRSCRIPTS/notifications.sh # Custom notification script
+exec-once = /usr/lib/pam_kwallet_init     # KDE wallet manager
 
 
-# Screen Shot
+# ========================
+# Workspace Configuration
+# ========================
+# Import workspace configuration from external file for cleaner main config
+source = ~/.config/hypr/conf/custom_workspace.conf
 
+
+# ========================
+# Default Application Shortcuts
+# ========================
+# Remove existing browser shortcut
+unbind = $mainMod, B
+
+# Application shortcut configuration
+bind = $mainMod, B, exec, google-chrome-stable --new-window  # Open Chrome browser
+bind = $mainMod, C, exec, code                  # Open Visual Studio Code
+
+# Remove existing launcher shortcut
+unbind = $mainMod, R
+bind = $mainMod, R, exec, rofi -show run        # Use Rofi application launcher
+
+# Remove existing Obsidian shortcut
+unbind = $mainMod, O
+bind = $mainMod, O, exec, obsidian              # Open Obsidian notes application
+
+
+# ========================
+# Screenshot Configuration
+# ========================
+# Remove existing screenshot keybindings
 unbind = $mainMod, P
 unbind = $mainMod ALT, P
 unbind = $mainMod SHIFT, P
 
-bind = $mainMod, p, exec, $HYPRSCRIPTS/screenshot.sh 
-bind = $mainMod ALT, P, exec, $HYPRSCRIPTS/screenshot.sh --instant # Take an instant full-screen screenshot
-bind = $mainMod SHIFT, P, exec, $HYPRSCRIPTS/screenshot.sh --instant-area # Take an instant area screenshot
+# Rebind screenshot shortcuts
+bind = $mainMod, p, exec, $HYPRSCRIPTS/screenshot.sh               # Normal screenshot (opens menu for mode selection)
+bind = $mainMod ALT, P, exec, $HYPRSCRIPTS/screenshot.sh --instant      # Instant full-screen screenshot
+bind = $mainMod SHIFT, P, exec, $HYPRSCRIPTS/screenshot.sh --instant-area # Instant area screenshot
 
 
-# hot fix
+# ========================
+# System Compatibility Fixes
+# ========================
 xwayland {
-    force_zero_scaling = true
+    force_zero_scaling = true  # Force XWayland applications to use zero scaling, fixing display issues
 }
 dwindle {
-    pseudotile = true
-    preserve_split = true
+    pseudotile = true         # Enable pseudo-tiling layout
+    preserve_split = true     # Maintain window split state
 }
-# Default software
-
-unbind = $mainMod, B
-
-bind = $mainMod, B, exec, google-chrome-stable
-bind = $mainMod, C, exec, code
-
-unbind = $mainMod, R
-bind = $mainMod, R, exec, rofi -show run
-
-unbind = $mainMod, O
-bind = $mainMod, O, exec, obsidian
 ```
-
-
 
 ---
 ## **Related**
+
