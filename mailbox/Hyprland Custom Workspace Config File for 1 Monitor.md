@@ -11,7 +11,7 @@ source: 《卡片盒笔记法》 by Sönke Ahrens
 >In path `~/.config/hypr/conf/custom_workspace.conf
 
 ```
-# ==========================================
+# # ==========================================
 # Workspace & Monitor Configuration
 # ==========================================
 
@@ -34,12 +34,12 @@ bind = $mainMod CTRL ALT, left, movetoworkspace, r-1
 
 # --- 3. 上下切换：不同屏幕（显示器）之间切换 ---
 # focusmonitor +1 / -1 用于在物理显示器之间切换焦点
-bind = $mainMod CTRL, down, focusmonitor, +1
-bind = $mainMod CTRL, up, focusmonitor, -1
+bind = $mainMod CTRL, down, workspace, 21 
+bind = $mainMod CTRL, up, workspace, 1
 
 # 上下移动窗口：将当前窗口发送到下一个/上一个屏幕（显示器）
-bind = $mainMod CTRL ALT, down, movewindow, mon:+1
-bind = $mainMod CTRL ALT, up, movewindow, mon:-1
+bind = $mainMod CTRL ALT, down, movetoworkspace, 21
+bind = $mainMod CTRL ALT, up, movetoworkspace, 1
 
 # ==========================================
 # Window State & Special Workspace

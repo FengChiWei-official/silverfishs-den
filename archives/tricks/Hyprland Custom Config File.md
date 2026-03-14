@@ -39,7 +39,7 @@ exec-once = $HYPRSCRIPTS/notifications.sh # Custom notification script
 exec-once = /usr/lib/pam_kwallet_init     # KDE wallet manager
 
 # ========================
-#
+# proxy setting
 # ========================
 
 env = http_proxy,http://127.0.0.1:7897
