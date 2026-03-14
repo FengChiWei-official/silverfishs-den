@@ -17,6 +17,7 @@ examples:
 1. [[474. Ones and Zeroes]]
 ### [[Counting Knapsack]]
 1. [[494. Target Sum]]
+2. [[砝码称重]]([[Bounded Knapsack DP]])
 
 ### [[Group Knapsack]]
 1. [[1155. Number of Dice Rolls With Target Sum]]

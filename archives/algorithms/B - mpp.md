@@ -53,7 +53,7 @@ int main () {
 ## Thoughts
 
 ### Techs
-[[Frequency Array]]
+[[Bucketing Chars]]
 [[PP_Fast_IO_Template]]
 [[Two_Pass_Scanning_Strategy]]
 [[Lookup_Table_vs_Search]]

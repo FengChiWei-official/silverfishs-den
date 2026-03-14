@@ -50,3 +50,4 @@ flowchart LR
 ---
 
 ## Thoughts
+[[数量级判断]]
