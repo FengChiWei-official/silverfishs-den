@@ -23,6 +23,6 @@ $$
 1. [[Hook Function]]
 2. [[Product to Sum]]
 3. [[The Square Squeeze]]
-4. 
+4.[[Log-Linear Symmetry]] (The "General Case")
 ---
 ## **Related**
