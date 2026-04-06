@@ -24,12 +24,13 @@ $$
 
 $$
 \begin {align}
-& a(x+b) + \frac{k}{a(x+b)} &&\\
+& && a(x+b) + \frac{k}{a(x+b)}\\
 & \to && \frac{b(x+c)^2 +k}{ax+ac}\\
 & \to && \frac{bx^2+2bcx + bc^2 + k}{ax+ac}
 
 \end {align}
 $$
+[[Instance of Fraction Hook Function]]
 
 ---
 ## **Related**
