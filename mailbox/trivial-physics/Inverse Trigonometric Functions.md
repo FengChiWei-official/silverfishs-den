@@ -1,11 +1,11 @@
 ---
 tags:
   - type/permanent
-  - attr/principle
-  - topic/learning
   - status/evergreen
+  - topic/learning
+  - attr/concept
 aliases:
-  - 周期性
+  - 反三角函数
 ---
 
 ## Definition

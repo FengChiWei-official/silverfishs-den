@@ -8,7 +8,7 @@ tags:
 
 ## Definition
 [[Definition of Function]]
-[[]]
+[[Properties of Functions]]
 
 
 

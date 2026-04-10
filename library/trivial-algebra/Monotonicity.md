@@ -4,6 +4,8 @@ tags:
   - attr/principle
   - topic/learning
   - status/evergreen
+aliases:
+  - 单调性
 ---
 
 ## Definition

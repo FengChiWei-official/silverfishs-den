@@ -8,7 +8,7 @@ source: 《卡片盒笔记法》 by Sönke Ahrens
 
 ## Text
 
-Does hypernetwork gain the ticket for the future?
+Does hyper-network gain the ticket for the future?
 
 
 ---
