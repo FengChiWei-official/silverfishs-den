@@ -18,11 +18,13 @@ aliases:
 3.  参考示例：
     - [[301 示例 - 文献笔记 (Input)]]
     - [[302 示例 - 永久笔记 (Output)]]
+4.  查看 [[Knowledge Base Operating Rules]] 了解 mailbox / library / archives 的分工与升级规则。
 
 ## 🧠 核心原则
 - **原子化 (Atomicity)**：一卡一事。
 - **自下而上 (Bottom-up)**：先写卡片，再涌现结构。
 - **连接优于分类**：不要纠结文件夹，用 `[[]]` 建立联系。
+- **先状态，后主题**：先判断是 archive / mailbox / library，再决定放到哪个主题簇。
 
 ## 🛠️ 待办事项
 - [ ] 安装 Templater 插件并配置模板。

@@ -3,10 +3,16 @@ tags:
   - type/permanent
   - status/evergreen
   - topic/learning
-  - attr
+  - attr/map
 ---
 
 ## Definition
+
+## Core Concepts
+
+## Key Methods
+
+## Applications
 
 ---
 ## **Related**

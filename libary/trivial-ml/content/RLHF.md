@@ -1,2 +1,0 @@
-demonstration:
-![[RLHF-process.jpg]]

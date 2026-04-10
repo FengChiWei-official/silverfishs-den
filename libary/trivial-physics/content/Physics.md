@@ -1,5 +1,0 @@
----
-tags:
-  - entity
-  - physics
----

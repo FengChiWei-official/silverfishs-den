@@ -1,0 +1,12 @@
+---
+tags:
+  - type/permanent
+  - attr/principle
+  - topic/learning
+  - status/evergreen
+---
+
+## Definition
+
+---
+## **Related**

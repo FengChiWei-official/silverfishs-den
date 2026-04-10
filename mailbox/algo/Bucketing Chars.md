@@ -1,9 +1,9 @@
 ---
 tags:
   - type/permanent
-  - status/evergreen
   - topic/learning
   - attr/technique
+  - status/in-progress
 aliases:
   - Count chars (a-z) efficiency
   - Frequency Array
