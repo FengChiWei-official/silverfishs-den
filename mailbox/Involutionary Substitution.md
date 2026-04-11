@@ -25,7 +25,7 @@ $y = -x$ and $y = \frac{1}{x}$ are most common Instances.
 
 $$
 \alpha_1 f(t) + \alpha_2 f(\phi(t)) = \alpha_3  
-$$
+$$ 
 Then, we can get
 $$
 \begin{align}
@@ -33,6 +33,8 @@ $$
 &\to && \alpha_1 f(\phi(t)) + \alpha_2 f(t) = \alpha_3 
 \end{align}
 $$
+
+These two Identities forms a system to solve $f(x)$.
 
 ---
 ## **Related**

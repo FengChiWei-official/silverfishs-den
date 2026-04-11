@@ -2,8 +2,8 @@
 tags:
   - type/permanent
   - topic/learning
-  - attr/concept
   - status/evergreen
+  - attr/technique
 aliases:
   - Sum to Product
 ---
@@ -22,6 +22,9 @@ It give a **Lower Boundary** of the [[Hook Function]].
 ## Common Identity
 [[Special Structure of Hook function]]
 
+## Usage
+1. [[Boundedness]] proof.
+2. [[Squeeze Theorem]]
 
 ---
 ## **Related**
