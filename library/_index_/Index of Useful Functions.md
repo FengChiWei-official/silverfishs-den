@@ -14,6 +14,9 @@ tags:
 - [[Absolute Function]]
 - [[Flooring Function]]
 
+$(1+x)^{\frac{1}{x}}$
+$e^{\frac{1}{x}}$
+
 ## Key Methods
 
 ## Applications
