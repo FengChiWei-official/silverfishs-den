@@ -15,6 +15,7 @@ $\lim_{x \to a} \lim_{x \to a} f(x) = \lim_{x \to a} f(x) = A$
 ## Solution
 
 [[View of Solving Limitation]]
+[[View of Continuity]]
 
 ---
 ## **Related**

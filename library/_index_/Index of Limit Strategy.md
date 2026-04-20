@@ -22,10 +22,14 @@ Limit Strategy organizes solving routes by trigger: rational structure, substitu
 [[Rational Limitation]]
 [[Simplification Rational Limitation]]
 
+### Radical Route
+[[Radical Normalization for Limitation]]
 ### Exponential Route
 [[Power-Exponential Functions Transform]]
 [[Definition-of-E-like Limitation]]
 
+### logarithm
+[[Logarithmic Functions Pattern for Limitation]]
 ### Bounding Route
 [[Monotonic Squeezing]]
 

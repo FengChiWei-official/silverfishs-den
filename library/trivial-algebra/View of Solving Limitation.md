@@ -11,6 +11,9 @@ tags:
 [[Power-Exponential-like Limitation]]
 [[Definition-of-E-like Limitation]]
 
+## Patterns
+
+[[Functions defined via a limiting process]]
 
 ---
 ## **Related**

@@ -20,6 +20,9 @@ Scaling and Normalization organizes expressions by dominant factor, denominator 
 ### Denominator Normalization
 [[Denominator Normalization]]
 
+## Radical Normalization
+[[Radical Normalization]]
+
 ### Dominant Factor Extraction
 [[Simplification Rational Limitation]]
 [[Rational Limitation]]
