@@ -5,7 +5,6 @@ tags:
   - topic/learning
   - status/evergreen
 aliases:
-  - 单调性
 ---
 
 ## qwq
@@ -14,3 +13,5 @@ aliases:
 
 ---
 ## **Related**：
+
+[[Monotonicity]]

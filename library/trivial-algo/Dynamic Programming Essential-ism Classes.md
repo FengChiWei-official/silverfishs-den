@@ -16,11 +16,13 @@ tags:
 ### Special Hyponym
 #### [[Single Sequence - Constant Transition DP|Fibonacci-like DP]]
 - [[70. Climbing Stairs]]
+- [[AtCoder-abc275_d]]
 #### [[Single Sequence - Prefix Transition DP|LIS-like DP]]
 - [[300. Longest Increasing Subsequence|300. LIS]]
 #### [[Single Sequence - Continuous Subarray DP|Max Subarray Sum-Like DP]]
 - [[53. Maximum Subarray]]
 #### [[Dual Sequence DP|LCS-like DP]]
+- [[1143. Longest Common Subsequence]]
 
 #### [[Matrix DP]]
 

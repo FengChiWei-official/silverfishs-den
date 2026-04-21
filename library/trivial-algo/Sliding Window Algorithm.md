@@ -14,8 +14,11 @@ tags:
 ## Template
 ### Principles
 1. initialize the window outside the loop
-2. update the window, when window expand, **not failed**.
+2. update the window, when window **expand**, **not failed**.
+
 [[Template of Sliding Window]]
+> i.e. [[1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit]]
+
 [[Template of Fixed Window]]
 
 ---
