@@ -1,15 +1,14 @@
 ---
 tags:
   - type/permanent
-  - status/evergreen
+  - status/in-progress
   - topic/learning
   - attr/concept
 ---
 
 ## Definition
-[[Complex Exponential Functions]]
-$$
-e^{ix} = \cos x + i \sin x
-$$
+$\sin x+y = \sin x \cos y + \cos x \sin y$
+$\cos x+y = \cos^2 x - \sin^2 y$
+
 ---
 ## **Related**

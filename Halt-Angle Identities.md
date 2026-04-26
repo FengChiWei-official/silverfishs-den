@@ -1,15 +1,12 @@
 ---
 tags:
   - type/permanent
-  - status/evergreen
+  - status/in-progress
   - topic/learning
   - attr/concept
 ---
 
 ## Definition
-[[Complex Exponential Functions]]
-$$
-e^{ix} = \cos x + i \sin x
-$$
+
 ---
 ## **Related**
