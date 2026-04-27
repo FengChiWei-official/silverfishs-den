@@ -36,6 +36,7 @@ This map is organized by solving method instead of object type.
 [[Conjugate]]
 [[Denominator Normalization]]
 [[The Ratio Substitution]]
+[[Reciprocal Substitution]]
 [[Power-Exponential Functions Transform]]
 [[Monotonic Squeezing]]
 

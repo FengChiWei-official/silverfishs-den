@@ -8,6 +8,7 @@ tags:
 
 ## Definition
 
+[[Limitation That Defines E]]
 $$\lim_{x \to \infty} 1^x$$
 
 ## Mean to Solve
@@ -30,9 +31,9 @@ $$\lim_{x \to 0} (\cos x)^{x^{-k}}$$
 ## Case 3 Mean of Exponentiation
 
 $$
-A = lim_{x \to 0} (\frac{e^x+e^{2x  }+e^{3x}}{3})^{\frac{e}{x}}
+A = lim_{x \to 0} (\frac{e^x+e^{2x  }+e^{3x}}{3})^{\frac{k}{x}}
 $$
-$A = e^{\frac{e}{3}(\lim \frac{e^x-1}{x} +\lim \frac{e^{2x}-1}{x} +\lim \frac{e^{3x}-1}{x})}$
+$A = e^{\frac{k}{3}(\lim \frac{e^x-1}{x} +\lim \frac{e^{2x}-1}{x} +\lim \frac{e^{3x}-1}{x})}$
 > $e^{kx} - 1  =  kx$
 
 ---

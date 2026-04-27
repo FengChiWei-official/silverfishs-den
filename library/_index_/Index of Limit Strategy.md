@@ -34,7 +34,7 @@ Limit Strategy organizes solving routes by trigger: rational structure, substitu
 [[Monotonic Squeezing]]
 
 ### Overview Route
-[[View of Solving Limitation]]
+[[library/trivial-algebra/View of Solving Limitation of Function]]
 [[Limitation]]
 
 ## Typical Order
