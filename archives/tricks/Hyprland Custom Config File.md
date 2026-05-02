@@ -25,7 +25,7 @@ The file is in that path `~/.config/hypr/conf/custom.conf`
 
 ```
 # Add your additional Hyprland configurations here
-# Hook for Obsidian: [[Hyprland Config]]
+# Hook for Obsidian: [[Hyprland Custom Config File]]
 
 # ===========================================
 # Hyprland Configuration File
@@ -46,6 +46,10 @@ $SCRIPTS = ~/.config/ml4w/scripts         # Other tool scripts
 # ========================
 exec-once = fcitx5                        # Chinese input method framework
 exec-once = clash-verge                   # Network proxy client
+## Optional: 
+### Equalizer
+exec-once = easyeffects
+### for hyprland + kde combol
 exec-once = $HYPRSCRIPTS/notifications.sh # Custom notification script
 exec-once = /usr/lib/pam_kwallet_init     # KDE wallet manager
 
@@ -96,6 +100,9 @@ unbind = $mainMod SHIFT, P
 bind = $mainMod, p, exec, $HYPRSCRIPTS/screenshot.sh               # Normal screenshot (opens menu for mode selection)
 bind = $mainMod ALT, P, exec, $HYPRSCRIPTS/screenshot.sh --instant      # Instant full-screen screenshot
 bind = $mainMod SHIFT, P, exec, $HYPRSCRIPTS/screenshot.sh --instant-area # Instant area screenshot
+
+
+
 
 
 # ========================
