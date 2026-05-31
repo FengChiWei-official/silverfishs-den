@@ -17,7 +17,7 @@ tags:
 [[Angle Sum and Difference Identities]]
 
 [[Double-Angle Identities]]
-[[Halt-Angle Identities]]
+[[Half-Angle Identities]]
 
 [[Product to Sum for Triangle]]
 [[Sum to Product for Triangle]]

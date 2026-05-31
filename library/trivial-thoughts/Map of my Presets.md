@@ -12,7 +12,7 @@ tags:
 
 [[Autoeq-Philips SHP9500]]
 [[Listener-Philips SHP9500]]
-[[Lisener-Beyerdynamic DT 900 Pro X]]
+[[Listener-Beyerdynamic DT 900 Pro X]]
 
 ## Key Methods
 
