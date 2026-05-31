@@ -17,6 +17,7 @@ $$
 ---
 ## **Related**
 
+
 ### Classical Problem
 
 #### Proving some function is bounded in an interval.

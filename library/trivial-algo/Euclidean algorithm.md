@@ -4,6 +4,8 @@ tags:
   - attr/principle
   - topic/learning
   - status/evergreen
+aliases:
+  - 辗转相除法
 ---
 
 ## qwq

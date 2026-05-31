@@ -12,6 +12,6 @@ source: 《卡片盒笔记法》 by Sönke Ahrens
 
 ---
 
-## Thoughts
+## Thoughts[[Build up Your Geometric Building]]
 
 It is a [[Single Sequence - Constant Transition DP|Fibonacci-like DP]] with a large scale. You should do [[Memory Search]], instead of Traversal all states.

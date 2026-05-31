@@ -20,7 +20,7 @@ Group is rather simple?
 - $\mathbf{G} = (\mathbf{S}, +)$ : [[Notation of Group]]
 ## Hyponym
 - [[Subgroup]]
-	- [[Subgroup Test]]
+	- [[One-Step Subgroup Test]]
 
 ## Special Groups
 - [[Additive Group of Integers]]
@@ -28,7 +28,7 @@ Group is rather simple?
 	- Many **Properties**
 - [[Cyclic Group]]
 - [[General Linear Group]]
-- [[mailbox/algebra/Symmetric Group]]
+- [[Symmetric Group]]
 
 ---
 ## **Related**

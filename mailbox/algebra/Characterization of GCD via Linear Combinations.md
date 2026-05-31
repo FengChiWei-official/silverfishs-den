@@ -21,7 +21,7 @@ $$
 
 >[!Note]
 > Note: `GCD` is just a given name, its properties are listed following.
-> Note: $\mathbf{S}$ is a subgroup for [[Subgroup Test]].
+> Note: $\mathbf{S}$ is a subgroup for [[One-Step Subgroup Test]].
 
 Then the following fundamental equality holds and provides a complete [[Characterization]] of $d$:
 $$\mathbf{S} \equiv \mathbb{Z}d$$

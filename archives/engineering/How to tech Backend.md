@@ -14,7 +14,7 @@ How to safely use a object: **Keep their secrete** properly
 
 ### Traversal
 
-How do [[Data Base]] save an [[Class]]? A table is a [[Class]].
+How do [[Data Base]] save an [[library/Class]]? A table is a [[library/Class]].
 
 
 ---

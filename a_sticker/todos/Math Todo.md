@@ -1,3 +1,6 @@
 - [x] zhihu problem set of Limitation
 - [ ] 基础30讲习题梳理
-- [ ] 
+- [ ] 常见函数如$f(x) = xe^{-x}$的图像 -> [[]]
+- [ ] 对数求导法
+- [ ] [[Curvature]]
+- [ ] **数学分析中的典型问题与方法**

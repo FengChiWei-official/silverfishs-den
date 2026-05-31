@@ -9,7 +9,7 @@ tags:
 ## define
 ``` cpp
 //for (int i = 2; i<sqrt(n); i++){}
-// change your mind and something will be simpler
+// change your min[[Trie Tree]]d and something will be simpler
 // let result a map {base: exponent}
 using pw = std::pair<int, int>;
 using vec = std::vector<pw>;

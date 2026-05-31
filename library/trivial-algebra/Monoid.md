@@ -6,7 +6,7 @@ tags:
 #concept #math/algebra/abstract 
 
 ## Definition
--  a [[semigroup]] having:
+-  a [[Semigroup]] having:
 	- [[Identity]]
 
 - **oder** a `set with operator`  having:

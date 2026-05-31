@@ -8,6 +8,8 @@ source: 《卡片盒笔记法》 by Sönke Ahrens
 
 ## Text
 
+[[Index of Algorithm Problem Types]]
+
 ```mermaid
 flowchart LR
     Start{读完题目, 核心特征是?}

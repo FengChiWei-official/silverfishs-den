@@ -4,14 +4,12 @@ tags:
   - topic/learning
   - attr/concept
   - status/in-progress
+aliases:
+  - TNB-Frame
 ---
 
 ## Definition
-[[Unit Tangential Vector]]
----[[Curvature]]---
-[[Principal Normal Vector]]
----[[Torsion]]---
--[[Binormal Vector]]
+[[Unit Tangential Vector]]--[[Curvature]]--[[Principal Normal Vector]]--[[Torsion]]---[[Binormal Vector]]
 
 $$
 \left \{
@@ -24,5 +22,9 @@ $$
 \right .
 $$
 
+>[!note] 
+>The basis of that is [[Arc Length Element|ds - the Arc Length Element]].
+
 ---
 ## **Related**
+

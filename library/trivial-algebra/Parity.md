@@ -12,3 +12,6 @@ aliases:
 
 ---
 ## **Related**
+
+
+[[View of Parity of Changed Function]]

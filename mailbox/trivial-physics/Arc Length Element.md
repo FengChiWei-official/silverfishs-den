@@ -7,6 +7,7 @@ tags:
 aliases:
   - Infinitesmal Arc Length
   - ds - the Arc Length Element
+  - ds
 ---
 
 ## Definition

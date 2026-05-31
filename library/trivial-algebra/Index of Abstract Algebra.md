@@ -18,7 +18,7 @@ tags:
 #### Groups & Subgroups
 - [[Group]] - 具有结合律、单位元、逆元的集合与运算
 - [[Subgroup]] - 群的子结构
-  - [[Subgroup Test]] - 判断子群的方法
+  - [[One-Step Subgroup Test]] - 判断子群的方法
   - [[Subgroup of Integer Additive Group]]
   - [[Cyclic Subgroup]] - 由单个元素生成的子群
 - [[Abelian Group]] - 满足交换律的群
@@ -62,7 +62,7 @@ tags:
 #### Cosets & Quotients
 - [[Coset]] - 陪集
 - [[Normal Subgroup]] - 正规子群
-  - [[Proposition of all Subgroup of Abelian Group is Normal]]
+  - [[Proposition of all Subgroup of Abelian Group is Normal Group]]
 
 ### 4. Algebraic Properties
 
@@ -82,7 +82,7 @@ tags:
 
 #### Algebraic Objects
 - [[Monoid]] - 幺半群
-- [[semigroup]] - 半群
+- [[Semigroup]] - 半群
 - [[Manifold]] - 流形
 - [[Linear Agebra]] - 线性代数
   - [[Column Space]]

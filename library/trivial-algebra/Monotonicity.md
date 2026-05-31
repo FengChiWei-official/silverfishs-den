@@ -10,5 +10,8 @@ aliases:
 
 ## Definition
 
+
 ---
 ## **Related**
+
+[[View of Monotonicity of Changed Function]]

@@ -12,3 +12,5 @@ aliases:
 
 ---
 ## **Related**
+
+[[View of Periodicity of Changed Function]]

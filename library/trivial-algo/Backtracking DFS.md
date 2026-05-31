@@ -9,7 +9,7 @@ aliases:
 ---
 
 ## Backtracking / Full-path DFS
-
+[[Backtracking]]
 Purpose: enumerate or build complete paths/solutions (permutations, combinations, path lists). Problems include permutations, subsets, N-Queens, all simple paths, and path-sum enumerations.
 
 Visited semantics:
