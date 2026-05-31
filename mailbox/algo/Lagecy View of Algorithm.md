@@ -8,8 +8,8 @@ source: 《卡片盒笔记法》 by Sönke Ahrens
 
 ## Text
 
-> [!summary] 算法知识体系 MOC (完全体)
-> 建立对算法版图的全局掌控感。识别题型、映射数据结构、制定解题策略。
+> [!summary] Algorithm Knowledge MOC (complete)
+> Build a global mental map of the algorithm landscape: recognize problem types, map them to data structures, and craft solving strategies.
 
 ### 1. Basis
 
@@ -30,7 +30,7 @@ source: 《卡片盒笔记法》 by Sönke Ahrens
 1. [[Depth First Search|DFS]] and [[Breadth-First Search|BFS]]
 2. [[Backtracking]]
 3. [[Permutation & Combination]]
-4. [[双向BFS]]
+4. [[Bidirectional BFS]]
 5. [[Hash Map]]
 	1. **[[Mathematical Modeling]]**
 
@@ -63,7 +63,7 @@ source: 《卡片盒笔记法》 by Sönke Ahrens
 
 
 
-### 7. Bit Manipulation (位运算)
+### 7. Bit Manipulation
 
 [[View of Bit Manipulation]]
 

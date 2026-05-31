@@ -17,7 +17,7 @@ about ratio
 about 根式
 [[Rational Function that is 1 to 1]]
 
-三角函数
+[[mailbox/trivial-trigonometry/Trigonometric Functions]]
 
 $f(x) = x^a sin(\frac{1}{x})$
 

@@ -14,13 +14,13 @@ tags:
 #include <unordered_map>
 #include <utility>
 
-// 自定义 pair 的哈希结构体
+// Custom hash struct for std::pair
 struct PairHash {
     template <class T1, class T2>
     std::size_t operator () (const std::pair<T1, T2>& p) const {
         auto h1 = std::hash<T1>{}(p.first);
         auto h2 = std::hash<T2>{}(p.second);
-        // 经典的 Boost hash_combine 算法
+            // Classic Boost-like hash_combine algorithm
         return h1 ^ (h2 + 0x9e3779b9 + (h1 << 6) + (h1 >> 2));
     }
 };

@@ -9,7 +9,7 @@ tags:
 ## Definition
 
 [[Algorithm Decision Tree]]
-[[View of Algorithm]]
+[[Lagecy View of Algorithm]]
 ## Normal Forms
 
 [[C++ algorithm start up]]
@@ -21,6 +21,7 @@ tags:
 [[States Update Form]]
 [[How to Use Stack]]
 [[Trick String for Stack]]
+[[Edgings in algo]]
 
 ## Useful Algorithm
 
@@ -40,7 +41,7 @@ tags:
 [[Fenwick Tree]]
 [[Lowest Common Ancestor]]
 
-[[AC 自动机]]
+[[AC Automaton]]
 ## tricks
 
 [[View of Bit Manipulation]]

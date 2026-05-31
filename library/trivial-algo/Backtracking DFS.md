@@ -43,5 +43,6 @@ Common pitfalls
 Examples
 - Permutations, subsets, combination-sum, N-Queens, path enumeration problems.
 
-Related
+## Related
 - See [[Connectivity DFS]] for component/reachability problems where visited is global and permanent.
+- [[Depth First Search|DFS]]

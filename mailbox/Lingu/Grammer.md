@@ -1,9 +1,11 @@
 ---
 tags:
   - type/permanent
-  - status/evergreen
+  - status/in-progress
   - topic/learning
-  - attr/technique
+  - attr/concept
+aliases:
+  - Grammatical
 ---
 
 ## Definition

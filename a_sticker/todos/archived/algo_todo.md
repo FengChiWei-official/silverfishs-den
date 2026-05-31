@@ -2,6 +2,6 @@
 - [ ] stack
 - [ ] 素数筛 vs 质因数分解
 - [ ] 暴力法识别 [[CodeForces-2205A]]
-- [ ] Map of Edgings? [[Algorithm Edgings]]
+- [ ] Map of Edgings? [[Edgings in algo]]
 - [ ] [[Algorithm tips]]
 - [ ] TOdo search

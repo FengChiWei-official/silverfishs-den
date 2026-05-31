@@ -7,7 +7,11 @@ tags:
 ---
 
 ## Definition
-建立对算法版图的全局掌控感。识别题型、映射数据结构、制定解题策略。来自《卡片盒笔记法》的系统化知识框架。
+建立对算法版图的全局掌控感。识别题型、映射数据结构、制定解题策略。
+
+- [ ] Merge [[Lagecy View of Algorithm]] and [[Algorithm tips]], 
+- [ ] [[Algorithm Decision Tree]] Update that one as well.
+- [ ] [[Dictionary Order]]
 
 ---
 
@@ -47,6 +51,7 @@ tags:
 	1. [[Trie Tree]]
 	2. [[Segment Tree]]
 	3. [[Fenwick Tree]]
+	4. [[Lowest Common Ancestor]]
 
 ### 5. Optimization & Advanced
 

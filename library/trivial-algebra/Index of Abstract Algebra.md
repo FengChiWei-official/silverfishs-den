@@ -110,5 +110,5 @@ tags:
 - [[View of Group]] - 群概念的多角度视角（mailbox中的工作版本）
 - [[View of Addtive Group of Integer]] - 整数加法群的视角（mailbox中）
 - [[AM-GM Inequality]] - 多维度的不等式分析
-- [[Index of Algorithm Problem Types]] - 应用领域：算法设计
+- [[Index of Algorithm]] - 应用领域：算法设计
 - [[Index of Physics Fundamentals]] - 应用领域：物理建模

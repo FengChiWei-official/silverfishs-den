@@ -1,14 +1,17 @@
 ---
 tags:
   - type/permanent
-  - status/evergreen
+  - status/in-progress
   - topic/learning
   - attr/concept
 aliases:
-  - 三角函数
+  - German Grammar
 ---
 
 ## Definition
+
+[[Index of Deutsch Grammar]]
+
 
 ---
 ## **Related**

@@ -8,7 +8,7 @@ source: 《卡片盒笔记法》 by Sönke Ahrens
 
 ## Text
 
-[[Index of Algorithm Problem Types]]
+[[Index of Algorithm]]
 
 ```mermaid
 flowchart LR
